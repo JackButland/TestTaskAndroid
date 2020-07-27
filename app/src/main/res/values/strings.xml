@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestTaskApplication</string>
+    <string name="accessibility_service_label">tracker accessibility service</string>
+    <string name="accessibility_service_description">service for handling view events</string>
 </resources>
